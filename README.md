@@ -5,12 +5,17 @@ Welcome to my GitHub profile! I’m a passionate Full Stack Developer who loves 
 🚀 About Me
 
 🔭 I’m currently working on full stack projects involving React Native, Node.js, Express, MongoDB, and SQL.
+
 🌱 Always learning currently diving deeper into backend architecture, API design, cloud services, and system scalability.
+
 👯 Open to collaborating on impactful open source projects, especially in mobile apps, productivity tools, and automation.
+
 💬 Ask me about JavaScript, React Native, Node.js, Express.js, MongoDB, SQL, Git/GitHub.
+
 📫 Reach me at: sanabatool863@gmail.com
 
 🛠️ Languages and Tools
+
 Programming Languages
 
 JavaScript • C++ • SQL
@@ -64,6 +69,8 @@ MealMaster App: Smart recipe recommender + grocery list generator
 • Start freelancing and achieve financial independence
 
 
+
 Thanks for visiting my profile! Let’s build something amazing together! 🚀
+
 
 "Great software isn’t just built it’s crafted with clarity, purpose, and passion."
