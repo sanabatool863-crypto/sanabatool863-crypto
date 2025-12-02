@@ -92,7 +92,8 @@ MealMaster App: Smart recipe recommender + grocery list generator
 
 
 
-Thanks for visiting my profile! Let’s build something amazing together! 🚀
+
+Thanks for visiting my profile! Let’s build something amazing together!
 
 
 "Great software isn’t just built it’s crafted with clarity, purpose, and passion."
