@@ -1,8 +1,8 @@
-** Hi there, I'm Sana! 👋
+#Hi there, I'm Sana! 👋
 
 Welcome to my GitHub profile! I’m a passionate Full Stack Developer who loves building practical, scalable, and user friendly applications from sleek frontends to powerful backend systems.
 
-🚀 About Me
+##🚀 About Me
 
 🔭 I’m currently working on full stack projects involving React Native, Node.js, Express, MongoDB, and SQL.
 
@@ -14,29 +14,51 @@ Welcome to my GitHub profile! I’m a passionate Full Stack Developer who loves 
 
 📫 Reach me at: sanabatool863@gmail.com
 
-🛠️ Languages and Tools
+##🛠️ Languages and Tools
 
-Programming Languages
+###Programming Languages
 
-JavaScript • C++ • SQL
+• JavaScript
 
-Frontend Development
+• C++
 
-React Native • Expo • HTML • CSS
+• SQL
 
-Backend Development
+###Frontend Development
 
-Node.js • Express.js
+• React Native
 
-Database Management
+• Expo
 
-MongoDB • MySQL • SQL
+• HTML & CSS
 
-Tools & Platforms
+###Backend Development
 
-Git • GitHub • VS Code • npm • Vercel
+• Node.js
 
-🤖 Full Stack Expertise
+• Express.js
+
+REST APIs
+
+###Databases
+
+• MongoDB
+
+• MySQL
+
+• SQL
+
+###Tools & Platforms
+
+• Git & GitHub
+
+• VS Code
+
+• npm
+
+• Vercel
+
+##🤖 Full Stack Expertise
 
 I specialize in building complete end to end systems:
 
@@ -54,11 +76,11 @@ I specialize in building complete end to end systems:
 
 • MongoDB Atlas
 
-📱 Current Projects
+##📱 Current Projects
 
 MealMaster App: Smart recipe recommender + grocery list generator
 
-🎯 Goals for 2025
+##🎯 Goals for 2025
 
 • Build multiple production ready apps
 
