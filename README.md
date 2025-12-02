@@ -1,4 +1,4 @@
-Hi there, I'm Sana! 👋
+** Hi there, I'm Sana! 👋
 
 Welcome to my GitHub profile! I’m a passionate Full Stack Developer who loves building practical, scalable, and user friendly applications from sleek frontends to powerful backend systems.
 
