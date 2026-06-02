@@ -80,7 +80,7 @@ I specialize in building complete end to end systems:
 
 MealMaster App: Smart recipe recommender + grocery list generator
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 • Build multiple production ready apps
 
